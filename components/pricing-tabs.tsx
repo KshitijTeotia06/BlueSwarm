@@ -42,8 +42,8 @@ export default function PricingTabs() {
       <div className="py-12 md:py-20">
         <div className="max-w-6xl mx-auto px-4 sm:px-6">
           <div className="relative max-w-3xl mx-auto text-center pb-12">
-            <h2 className="font-inter-tight text-3xl md:text-4xl font-bold text-zinc-900 mb-4">Choose your plan</h2>
-            <p className="text-lg text-zinc-500">Scale your outreach with intelligent AI swarms that continuously work to grow your business and strengthen your negotiation position.</p>
+            <h2 className="font-inter-tight text-3xl md:text-4xl font-bold text-zinc-900 mb-4">Frequently Asked Questions</h2>
+            <p className="text-lg text-zinc-500">Learn more about BlueSwarm and questions we receive most often.</p>
           </div>
 
           {/* FAQs */}

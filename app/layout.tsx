@@ -19,6 +19,18 @@ const inter_tight = Inter_Tight({
 export const metadata = {
   title: 'BlueSwarm - Intelligent Distribution Powered by AI Swarms',
   description: 'BlueSwarm understands your company, continuously tracks your ICP and competitors, and delivers multi-channel distribution that builds trust before contracts.',
+  icons: {
+    icon: '/images/logo.png',
+    shortcut: '/images/logo.png',
+    apple: '/images/logo.png',
+  },
+  openGraph: {
+    images: ['/images/logo.png'],
+  },
+  twitter: {
+    card: 'summary',
+    images: ['/images/logo.png'],
+  },
 }
 
 export default function RootLayout({
